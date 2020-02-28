@@ -1,0 +1,7 @@
+>Project name: Little island
+>Description: Parkour map by unity
+>Release data: June 2019
+>Version: 1.0
+>Project meaning: better to know unity
+>Additionally: done on courses "game development 2" in TUMO
+>Github:  
